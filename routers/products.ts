@@ -1,6 +1,6 @@
 import express from 'express';
 import fileDb from "../fileDb";
-import {IProduct, ProductWithoutId} from "../types";
+import {ProductWithoutId} from "../types";
 
 const productsRouter = express.Router();
 

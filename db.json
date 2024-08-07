@@ -1,1 +1,20 @@
-[{"title":"test 1","description":"dsdsads","price":123,"id":"ab8262eb-7b03-4ed5-b246-b85cbdb75b58"},{"title":"test 2","description":"dsdsads","price":100,"id":"052726ed-752f-4d94-9c93-ab54b6cb81ae"},{"title":"test 3","description":"asdasddsdsads","price":200,"id":"ba35bbad-5ed2-4174-ba6d-2cbcf08a2460"}]
+[
+  {
+    "title": "test 1",
+    "description": "dsdsads",
+    "price": 123,
+    "id": "ab8262eb-7b03-4ed5-b246-b85cbdb75b58"
+  },
+  {
+    "title": "test 2",
+    "description": "dsdsads",
+    "price": 100,
+    "id": "052726ed-752f-4d94-9c93-ab54b6cb81ae"
+  },
+  {
+    "title": "test 3",
+    "description": "asdasddsdsads",
+    "price": 200,
+    "id": "ba35bbad-5ed2-4174-ba6d-2cbcf08a2460"
+  }
+]

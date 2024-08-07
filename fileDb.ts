@@ -1,6 +1,8 @@
 import {promises as fs} from "fs";
 import {randomUUID} from "crypto";
 import {IProduct, ProductWithoutId} from "./types";
+
+
 const fileName = "./db.json";
 let data:IProduct[] = [];
 
